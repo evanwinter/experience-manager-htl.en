@@ -31,8 +31,6 @@ These objects provide convenient access to commonly used information. Their cont
 
 Each of the following objects is backed by the corresponding Java object.
 
-The most useful variables in the table below are highlighted in bold.
-
 | Variable Name |Description |  |
 |---|---|---|
 | `component` | `com.day.cq.wcm.api.components.Component` |  |
